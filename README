@@ -1,0 +1,46 @@
+*Notes:
+  - all files in folder are necessary to properly run the program
+  - program was created in Replit
+  
+File Descriptions:
+ 
+ 1. data_persistance
+  - reads in txt file data to initialize program
+  - stores data from program as txt file
+  - saves all data from project (users, sprints, issues)
+ 
+ 2. functions
+  - support functions fro each action that user will take
+  - primarily called in each menu function
+  - includes functions that add/edit issues, users, sprints; simulate time; and allows users to interact with the program
+ 
+ 3. initial
+  - initialization function of program
+  - creates random users, issues, sprints, and adds to global project
+ 
+ 4. issue
+  - issue class with proper constructor/destructor, getters/setters
+  - supporting functions include: display function to see data member values
+ 
+ 5. main
+  - runs program
+  - calls starting program function, initialization function, main menu, etc.
+  
+ 6. menus
+  - functions for various menus
+  - starting menu asks user to create new user or login by entering username
+  - main menu differs by type of user (lead vs team member), and has all of the functionalities for each member
+ 
+ 7. project
+  - project class with constructor/destructor, getters/setters
+  - includes functions to display project details, along with issues in the todo, in progress, and work done sections
+ 
+ 8. sprint
+  - creates sprint class with proper constructor/destructor, getters/setters
+  - has functionality to add issues to sprint and add time to simulate movement of time in sprint
+ 
+ 9. user
+  - creates user class, defining the basic functions
+  - defines user as either lead or team meber
+  - includes supporting functions to print out details, change roles, and identify a given user's role
+

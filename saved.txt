@@ -1,0 +1,219 @@
+PROJECT NAME: 
+Project 1104
+PROJECT DESCRIPTION: 
+The poggest project out there
+USER: 
+User First Name: 
+Emily
+User Last Name: 
+Wang
+Username: 
+em
+User Type
+0
+User ID: 
+100
+USER: 
+User First Name: 
+Xinyu
+User Last Name: 
+Wu
+Username: 
+xi
+User Type
+0
+User ID: 
+200
+USER: 
+User First Name: 
+Nicole
+User Last Name: 
+Al
+Username: 
+ni
+User Type
+1
+User ID: 
+300
+USER: 
+User First Name: 
+Angel
+User Last Name: 
+Lu
+Username: 
+an
+User Type
+1
+User ID: 
+400
+USER: 
+User First Name: 
+Tommy
+User Last Name: 
+Be
+Username: 
+to
+User Type
+1
+User ID: 
+500
+ISSUE: 
+Issue priority: 
+3
+Date created: 
+122021
+Completion time: 
+8
+Issue Description: 
+complete task1
+Issue Type: 
+BUILD
+Issue Status: 
+IN_PROGRESS
+ISSUE: 
+Issue priority: 
+2
+Date created: 
+102021
+Completion time: 
+4
+Issue Description: 
+complete task2
+Issue Type: 
+BUILD
+Issue Status: 
+DONE
+ISSUE: 
+Issue priority: 
+3
+Date created: 
+5137
+Completion time: 
+4
+Issue Description: 
+complete task3
+Issue Type: 
+TEST
+Issue Status: 
+OPEN
+ISSUE: 
+Issue priority: 
+3
+Date created: 
+9233
+Completion time: 
+9
+Issue Description: 
+task 4
+Issue Type: 
+DEBUG
+Issue Status: 
+OPEN
+ISSUE: 
+Issue priority: 
+3
+Date created: 
+5265
+Completion time: 
+10
+Issue Description: 
+comment code
+Issue Type: 
+TEST
+Issue Status: 
+DONE
+ISSUE: 
+Issue priority: 
+3
+Date created: 
+122021
+Completion time: 
+5
+Issue Description: 
+finish project
+Issue Type: 
+DEBUG
+Issue Status: 
+IN_PROGRESS
+SPRINT: 
+Sprint Time: 
+3
+Sprint Timeframe: 
+5
+Sprint Issue priority: 
+3
+Sprint Issue Date created: 
+122021
+Sprint Issue Completion time: 
+8
+Sprint Issue Description: 
+complete task1
+Sprint Issue Type: 
+BUILD
+Sprint Issue Status: 
+IN_PROGRESS
+Sprint Issue priority: 
+3
+Sprint Issue Date created: 
+122021
+Sprint Issue Completion time: 
+5
+Sprint Issue Description: 
+finish project
+Sprint Issue Type: 
+DEBUG
+Sprint Issue Status: 
+IN_PROGRESS
+SPRINT: 
+Sprint Time: 
+4
+Sprint Timeframe: 
+9
+Sprint Issue priority: 
+3
+Sprint Issue Date created: 
+5137
+Sprint Issue Completion time: 
+4
+Sprint Issue Description: 
+complete task3
+Sprint Issue Type: 
+TEST
+Sprint Issue Status: 
+OPEN
+Sprint Issue priority: 
+2
+Sprint Issue Date created: 
+102021
+Sprint Issue Completion time: 
+4
+Sprint Issue Description: 
+complete task2
+Sprint Issue Type: 
+BUILD
+Sprint Issue Status: 
+DONE
+Sprint Issue priority: 
+3
+Sprint Issue Date created: 
+9233
+Sprint Issue Completion time: 
+9
+Sprint Issue Description: 
+task 4
+Sprint Issue Type: 
+DEBUG
+Sprint Issue Status: 
+OPEN
+Sprint Issue priority: 
+3
+Sprint Issue Date created: 
+5265
+Sprint Issue Completion time: 
+10
+Sprint Issue Description: 
+comment code
+Sprint Issue Type: 
+TEST
+Sprint Issue Status: 
+DONE
